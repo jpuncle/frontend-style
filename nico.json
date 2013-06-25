@@ -1,6 +1,6 @@
 {
-    "source": "content",
-    "output": "_site",
+    "source": "_content",
+    "output": ".",
     "theme": "_themes/one",
     "permalink": "{{directory}}/{{filename}}.html",
     "writers": [
