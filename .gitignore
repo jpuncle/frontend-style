@@ -2,5 +2,5 @@ Thumbs.db
 .project
 .svn/
 node_modules
-_site
 .cache
+*~
