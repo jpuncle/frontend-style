@@ -227,14 +227,14 @@ hr {
   max-width: 640px;
   *width: 650px;
   margin: 0 auto;
-  padding: 30px 10px;
+  padding: 20px 10px;
 }
 .entry-description {
   color: #676867;
 }
 .entry-title, .entry-content h2 {
-  margin: 40px -30px 30px;
-  padding: 14px 30px;
+  margin: 20px -30px 10px;
+  padding: 10px 30px;
   border-bottom: 1px solid #eee;
   color: #d64;
 }
@@ -243,9 +243,6 @@ hr {
     margin: 40px -10px 30px;
     padding: 14px 10px;
   }
-}
-.entry-content h2 {
-  border-top: 1px solid #eee;
 }
 .entry-content code {
   border: 1px solid #eee;

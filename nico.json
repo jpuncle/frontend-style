@@ -16,16 +16,16 @@
             "title": "首页"
         },
         {
+            "link": "wiki/index",
+            "title": "Wiki"
+        },
+        {
+            "link": "sites",
+            "title": "酷站"
+        },
+        {
             "link": "standard/index",
             "title": "规范"
-        },
-        {
-            "link": "course/index",
-            "title": "教程"
-        },
-        {
-            "link": "library/index",
-            "title": "代码库"
         },
         {
             "link": "fed/index",
