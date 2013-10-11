@@ -2,14 +2,14 @@
 
 ----------------
 
-## Wiki 推荐内容
+## 必读内容
 
-- HTML5 boilerplate
-- `<head lang="en">`
+1. 首先，我们假设你有最起码的前端开发经验，如果没有，请看[这里](./whatisfe.html)。
+2. [我如何学习?](./howdoistudy.html)
+3. [我们使用哪些东东?](./whatdoweuse.html)
+4. [我们是如何工作的?](./howdowework.html)
 
-## 其他地方的中文资料
+## 修炼之道
 
-- [General 规范](./general.html)
-- [HTML 规范](./html.html)
-- [CSS 规范](./css.html)
-- [Email 规范](./email.html)
+1. [How to keep up to date on Front-end Technologies?](http://uptodate.frontendrescue.org/), [frontend-rescue / keep-up-to-date](https://github.com/frontend-rescue/keep-up-to-date).
+2. 
